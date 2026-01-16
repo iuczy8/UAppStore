@@ -1,6 +1,6 @@
 {
-  "version": "1.1",
+  "version": "1.0",
   "url": "https://uapp.store",
   "notes": "初始版本1.0发布",
-  "force": true
+  "force": false
 }
