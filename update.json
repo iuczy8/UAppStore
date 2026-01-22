@@ -1,6 +1,6 @@
 {
-  "version": "1.0",
+  "version": "1.1",
   "url": "https://uapp.store",
-  "notes": "初始版本1.0发布",
-  "force": false
+  "notes": "功能增加：1. 视频解析去水印，2. 共享账号，3. 其他功能优化。",
+  "force": true
 }
